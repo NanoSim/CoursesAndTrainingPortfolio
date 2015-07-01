@@ -1,7 +1,7 @@
 Feedback Platform
 ====================
 
-[Top-Level Feedback for NanoSim (code MSQNZ)](http://app.feedbackr.io/#/auditor/interact/MSQNZ)
+* [Top-Level Feedback for NanoSim (code MSQNZ)](http://app.feedbackr.io/#/auditor/interact/MSQNZ)
 
 
 Notice
