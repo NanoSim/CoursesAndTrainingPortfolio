@@ -5,7 +5,7 @@ PDF showing Overview of Course Portfolio
 
 Atomistic Modeling
 -----------------
-* Course Material offered by University College London (UCL)
+* [Course Material offered by University College London (UCL)](1_MaterialsTheory/courses_ULC.md)
 
 Lagrangian Modeling
 -----------------
@@ -18,7 +18,7 @@ Eulerian Modeling
 
 Feedback
 ---------------
-* Link to [feedbackr](99_Feedback/README.md)
+* Link to [Feedback Platform](99_Feedback/README.md)
 
 Copyright Notice
 -------------
