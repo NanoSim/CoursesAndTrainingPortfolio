@@ -1,7 +1,7 @@
 TU Graz Courses
 =================
 
-[Weblink](https://online.tugraz.at)
+[TU Graz Web Portal](https://online.tugraz.at)
 
 Course 1 - Design of Multiphase Flow Processes
 -------------------------------
