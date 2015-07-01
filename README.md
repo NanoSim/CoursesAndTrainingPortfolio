@@ -16,6 +16,10 @@ Eulerian Modeling
 --------------------
 * Course Material offered by TU Graz (Austria)
 
+Feedback
+---------------
+* Link to [feedbackr](99_Feedback/README.md)
+
 Copyright Notice
 -------------
 (C) Stefan Radl, TU Graz, 2015
