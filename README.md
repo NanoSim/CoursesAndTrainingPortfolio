@@ -9,12 +9,12 @@ Atomistic Modeling
 
 Lagrangian Modeling
 -----------------
-* Course Material offered by TU Graz (Austria)
-* Course Material offered by DCS Computing GmbH (Austria)
+* [Course Material offered by TU Graz (Austria)](2_LagrangianModels/courses_TUGraz.md)
+* [Course Material offered by DCS Computing GmbH (Austria)](2_LagrangianModels/courses_DCS.md)
 
 Eulerian Modeling
 --------------------
-* Course Material offered by TU Graz (Austria)
+* [Course Material offered by TU Graz (Austria)](3_EulerianModels/courses_TUGraz.md)
 
 Feedback
 ---------------
