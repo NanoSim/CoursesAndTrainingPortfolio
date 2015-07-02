@@ -26,5 +26,4 @@ Parts of the course or training material were developed in the frame of the ['Na
 
 Copyright Notice
 -------------
-(C) Stefan Radl, TU Graz, 2015
-Note that links might refer to external documents that are not under the copyright of TU Graz.
+(C) Stefan Radl, TU Graz, 2015. Note that links might refer to external documents that are not under the copyright of TU Graz.
