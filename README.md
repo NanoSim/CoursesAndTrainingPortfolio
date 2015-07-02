@@ -5,7 +5,7 @@ Course Material Overview
 
 Atomistic Modeling
 -----------------
-* [Course Material offered by University College London (UCL)](1_MaterialsTheory/courses_ULC.md)
+* [Course Material offered by University College London (UCL)](1_MaterialsTheory/courses_UCL.md)
 
 Lagrangian Modeling
 -----------------
