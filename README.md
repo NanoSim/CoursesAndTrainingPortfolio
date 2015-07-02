@@ -1,7 +1,7 @@
 Course Material Overview
 ================================
 
-PDF showing Overview of Course Portfolio
+[PDF showing Overview of the Course Portfolio](PDF/2015-06-30_AcademicTrainingAndFeedback.pdf)
 
 Atomistic Modeling
 -----------------
@@ -20,6 +20,11 @@ Feedback
 ---------------
 * Link to [Feedback Platform](99_Feedback/README.md)
 
+Acknowledgement
+--------------------------
+Parts of the course or training material were developed in the frame of the 'NanoSim' project funded by the European Commission through FP7 Grant agreement no. 604656.
+
 Copyright Notice
 -------------
 (C) Stefan Radl, TU Graz, 2015
+Note that links might refer to external documents that are not under the copyright of TU Graz.
