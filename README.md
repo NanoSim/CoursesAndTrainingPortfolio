@@ -1,7 +1,7 @@
 Course Material Overview
 ================================
 
-[PDF showing Overview of the Course Portfolio](PDF/2015-06-30_AcademicTrainingAndFeedback.pdf)
+[PDF showing Overview of the Course Portfolio](PDFs/2015-06-30_AcademicTrainingAndFeedback.pdf)
 
 Atomistic Modeling
 -----------------
@@ -22,7 +22,7 @@ Feedback
 
 Acknowledgement
 --------------------------
-Parts of the course or training material were developed in the frame of the 'NanoSim' project funded by the European Commission through FP7 Grant agreement no. 604656.
+Parts of the course or training material were developed in the frame of the ['NanoSim' project](http://www.sintef.no/projectweb/nanosim) funded by the European Commission through FP7 Grant agreement no. 604656.
 
 Copyright Notice
 -------------
