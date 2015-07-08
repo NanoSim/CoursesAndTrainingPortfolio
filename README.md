@@ -17,6 +17,10 @@ Eulerian Modeling
 * [Course Material offered by TU Graz (Austria)](3_EulerianModels/courses_TUGraz.md)
 * [Useful external courses](3_EulerianModels/courses_external.md)
 
+Code Development / Debugging
+------------------------------------------
+* [List of Debuggers for Serial/Parallel Codes](4_Coding/debuggers.md)
+
 Feedback
 ---------------
 * Link to [Feedback Platform](99_Feedback/README.md)
