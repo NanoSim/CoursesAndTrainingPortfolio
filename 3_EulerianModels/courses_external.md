@@ -16,6 +16,7 @@ OpenFOAM (R)
 
 ### Chalmers University - OpenFOAM PhD/MSc Course Material
 * [Lecturer](http://www.tfd.chalmers.se/~hani)
+* [Current Training Course Page](http://www.tfd.chalmers.se/~hani/kurser/OS_CFD/)
 * [Training Material 2014](http://www.tfd.chalmers.se/~hani/kurser/OS_CFD_2014/)
 * [Training Material 2013](http://www.tfd.chalmers.se/~hani/kurser/OS_CFD_2013/)
 
