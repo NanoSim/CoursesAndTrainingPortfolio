@@ -15,7 +15,7 @@ Lagrangian Modeling
 
 Eulerian Modeling
 --------------------
-* [Course Material offered by TU Graz (Austria)](3_EulerianModels/courses_TUGraz.md)
+* [Course Material offered by TU Graz (Austria), incl. OpenFOAM ScreenCasts](3_EulerianModels/courses_TUGraz.md)
 * [Useful external courses](3_EulerianModels/courses_external.md)
 * [Meshing Tools](3_EulerianModels/meshingTools.md)
 
