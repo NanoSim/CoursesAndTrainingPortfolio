@@ -11,6 +11,10 @@ Document Format
 ---------------
 All documents should be prepared in PPT or PPTX format (for exceptions see below). In case equations need to be embedded, MathType should be used.
 
+Screencast Recording
+--------------------
+Please use the software [RECORDMYDESKTOP](http://recordmydesktop.sourceforge.net/about.php) to record *.OGV files.
+
 Document Categories and File Naming
 ---------------------
 In order to keep track of the files, as well as to provide a clear structure to the user of the training material, files must be named in a structured way. Therefore , 6 different document categories should be used:
