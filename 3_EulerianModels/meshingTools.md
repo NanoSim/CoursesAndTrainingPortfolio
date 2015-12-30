@@ -98,13 +98,6 @@ CAD software allowing meshing. You can inport it to fluent. From fluent to foam.
 -------------------
 Fluent to foam only works for one region. It could be combined in fluent. But needs experience.
 
-IPPT Problem Statement
--------------------
-Problem with dense particle bad with small distance between particles (as reference, look figure at Pfau X invite).
-IPPT (Stefan R.) approach: castelate mesh, add layers for fluid and than add layers for particle. Snappy has a problem with layer extrusion to singular point. If gap between spheres is small, problems. Look at pair of particles and do a neck around those. Tool to generate cylinders.
-Idea / Solution to problem: mesquite, which comes with extend project. Improves mesh quality after mesh is completed. Produced by sandia. Sandia has project, collaborating all their meshing tools to one tool. Tool is opensource.
-Note: AVL approach for meshing complicated stuff: source it out to India. Computation then is done in Austria.
-
 Outlook / Future in Meshing
 -------------------
 Jozsef attended meshing BoF session at OpenFOAM Workshop 10 in Ann Arbor, Michigan, US.
