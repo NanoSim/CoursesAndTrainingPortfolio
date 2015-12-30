@@ -15,3 +15,8 @@ Software "LIGGGHTS"
 [Intro](http://www.tugraz.at/fileadmin/user_upload/Institute/IPPT/Area-PharmEng_Particles/SoftwareTraining/LIGGGHTS/liggghts_shortcousre_1_LIGGGHTSIntro.mp4)
 
 [CompilationOfLIGGGHTS](http://www.tugraz.at/fileadmin/user_upload/Institute/IPPT/Area-PharmEng_Particles/SoftwareTraining/LIGGGHTS/liggghts_shortcousre_2_compilationOfLIGGGHTS-TUG.mp4)
+
+Software "CFDEM"
+----------------
+### CFDEM Short Course
+[Intro](http://www.tugraz.at/fileadmin/user_upload/Institute/IPPT/Area-PharmEng_Particles/SoftwareTraining/CFDEM/CFDEM_shortCourse_1_MultiphaseBackgroundCFDEM.mp4)
