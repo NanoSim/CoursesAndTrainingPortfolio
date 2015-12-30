@@ -11,7 +11,7 @@ Lagrangian Modeling
 -----------------
 * [Course Material offered by TU Graz (Austria)](2_LagrangianModels/courses_TUGraz.md)
 * [Course Material offered by DCS Computing GmbH (Austria)](2_LagrangianModels/courses_DCS.md)
-* [Training Material offered by TU Graz (Austria)](2_LagrangianModels/TrainingMaterial/README.md)
+* [Training Material offered by TU Graz (Austria)](2_LagrangianModels/TrainingMaterial/OVERVIEW.md)
 
 Eulerian Modeling
 --------------------
