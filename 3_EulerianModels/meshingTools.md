@@ -30,7 +30,7 @@ Provided by [Creative Fields, Ltd.](http://www.c-fields.com/) Extend project, Un
 
 [SALOME](http://www.salome-platform.org/)
 --------------------------------------
-Open, and a number of youtube videos are provided (e.g., see [HERE](https://www.youtube.com/watch?v=1zQbU-E4k1U)).
+Open, and a number of youtube videos are provided (e.g., see [HERE](https://www.youtube.com/watch?v=1zQbU-E4k1U)). Salome also features mesh cleaning tools.
 
 [Blender] (https://www.blender.org/)
 ----------------------------
