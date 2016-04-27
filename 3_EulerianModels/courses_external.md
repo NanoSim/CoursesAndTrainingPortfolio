@@ -7,7 +7,7 @@ OpenFOAM (R)
 * [cfd.direct documentation](http://cfd.direct/openfoam/documentation/)
 * [cfd.direct training](http://cfd.direct/openfoam-training/)
 
-### Unofficial OpenFOAM Training Material and forum
+### Unofficial OpenFOAM Training Material and forum (includes a lot of links to useful Training & Tutorial material, e.g., the Youtube channel of Josef Nagy!!)
 * [OpenFoam Wiki](https://openfoamwiki.net/index.php/Main_Page)
 
 ### TU Wien - OpenFOAM Tutorials
