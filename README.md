@@ -2,7 +2,9 @@ Course Material Overview
 ================================
 
 [PDF showing Overview of the Course Portfolio 2015](PDFs/2015-06-30_AcademicTrainingAndFeedback.pdf)
+
 [PDF showing Overview of the Course Portfolio 2017](PDFs/2017-02-07_AcademicTrainingAndFeedback.pdf)
+
 [PDF showing Overview of the Course Portfolio 2018](PDFs/2018-01-25_AcademicTrainingAndFeedback.pdf)
 
 Atomistic Modeling
