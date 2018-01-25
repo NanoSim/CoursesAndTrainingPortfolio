@@ -3,7 +3,7 @@ Summary of solvers of Filtered Two Fluid Models
 
 General Note
 ------------------------------
-
+TU Graz provides courses that introduce filtered Two Fluid Models. See the [teaching resources HERE](courses_TUGraz.md).
 
 Implementation "eulerianFilteredTFM "
 --------------------------------
