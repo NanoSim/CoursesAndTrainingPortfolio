@@ -11,11 +11,12 @@ Lagrangian Modeling
 -----------------
 * [Course Material offered by TU Graz (Austria)](2_LagrangianModels/courses_TUGraz.md)
 * [Course Material offered by DCS Computing GmbH (Austria)](2_LagrangianModels/courses_DCS.md)
-* [Training Material offered by TU Graz (Austria)](2_LagrangianModels/TrainingMaterial/OVERVIEW.md)
+* [Training Material offered by TU Graz (Austria); includes ParScale and CPPPO](2_LagrangianModels/TrainingMaterial/OVERVIEW.md)
 
 Eulerian Modeling
 --------------------
 * [Course Material offered by TU Graz (Austria), incl. OpenFOAM ScreenCasts](3_EulerianModels/courses_TUGraz.md)
+* [Filtered Two-Fluid Models](3_EulerianModels/filteredTwoFluidModels.md)
 * [Useful external courses](3_EulerianModels/courses_external.md)
 * [Meshing Tools](3_EulerianModels/meshingTools.md)
 
